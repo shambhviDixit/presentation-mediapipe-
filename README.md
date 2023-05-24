@@ -1,2 +1,1 @@
-# presentation-mediapipe-
-doesn't work, my teacher said she'll fix it.....i am low-key losing hopes....
+# PRO-C130-Project-Solution
